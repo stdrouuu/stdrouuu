@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Brandon J 😎</h1>
-<h3 align="center">I'm a student who enjoys learning new things, building simple projects, and figuring things out through trial and error. I’m not an expert (yet), but I love improving little by little.</h3>
+<h1 align="left">Hi, I'm Brandon J 😎</h1>
+<p align="left">I'm a student who enjoys learning new things, building simple projects, and figuring things out through trial and error. I’m not an expert (yet), but I love improving little by little.</p>
 
 
 
