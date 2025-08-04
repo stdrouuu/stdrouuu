@@ -16,4 +16,8 @@
       <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40"/>
 </p>
 
-![Image](https://github.com/user-attachments/assets/368994de-b6f4-4c7b-a83c-846ae3d39d30)
+<p align="center">
+<!--   <img src="https://github.com/user-attachments/assets/368994de-b6f4-4c7b-a83c-846ae3d39d30"/> -->
+<!--   <img src="https://github.com/user-attachments/assets/6da4fea7-357c-4942-bc42-df48c9edb4dc" width= "2000"/> -->
+  <img src="https://github.com/user-attachments/assets/e0d13071-9b2e-4172-8c8b-e2608eb8a1d4" width= "2000"/>
+</p>
