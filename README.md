@@ -3,21 +3,23 @@
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/figma.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/javascript.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/python.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/reactjs.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/tailwindcss.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/nextjs.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/vercel.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/typescript.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/nodejs.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/mysql.svg" height="45"/>
+
+<!--   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/css3.svg" height="40"/> -->
   <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40"/>
-<!--   <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="40"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-<!--   <img src="https://skillicons.dev/icons?i=astro&theme=light" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/> -->
+<!--   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/astro.svg" height="40"/> -->
+<!--   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/expressjs.svg" height="40"/> -->
+<!--   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/php.svg" height="40"/> -->
 </p>
 
 <p align="center">
