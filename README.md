@@ -30,3 +30,10 @@
   <img src="https://github.com/user-attachments/assets/7a3ee5c1-1678-4db5-8b11-88c37cefbb11" width= "2000"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stdrouuu/stdrouuu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stdrouuu/stdrouuu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stdrouuu/stdrouuu/output/pacman-contribution-graph.svg">
+</picture>
+
+
