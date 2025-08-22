@@ -18,7 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
 <!--   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/astro.svg" height="40"/> -->
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/nodejs.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/expressjs.svg" height="40"/> 
+ <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/postman.svg" height="45"/> 
+<!-- <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/expressjs.svg" height="40"/> -->
 <!--   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/php.svg" height="40"/> -->
 </p>
 
