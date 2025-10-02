@@ -12,15 +12,16 @@
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/vercel.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/typescript.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/mysql.svg" height="45"/>
-<!-- <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/css3.svg" height="40"/> -->
 <img src="https://skillicons.dev/icons?i=css&theme=dark" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/>
-<!--   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/astro.svg" height="40"/> -->
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/nodejs.svg" height="45"/>
  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/postman.svg" height="45"/> 
-<!-- <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/expressjs.svg" height="40"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/java.svg" height="45"/>
+
+	
+<!-- <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/expressjs.svg" height="40"/> -->
+<!--   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/astro.svg" height="40"/> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/laravel.svg" height="45"/> -->
 
