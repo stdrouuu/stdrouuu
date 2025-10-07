@@ -1,4 +1,5 @@
-<h1 align="left">&lt;BrandonJeremiah /&gt;</h1>
+<!-- <h1 align="left">&lt;BrandonJeremiah /&gt;</h1> -->
+<h1 align="left">Brandon Jeremiah S</h1>
 <!-- <p align="left">I'm a student who enjoys learning new things, building simple projects, and figuring things out through trial and error. I’m not an expert (yet), but I love improving little by little. </p> -->
 		
 
