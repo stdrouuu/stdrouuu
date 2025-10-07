@@ -3,7 +3,7 @@
 		
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/figma.svg" height="45"/>
+<!-- <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/figma.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/javascript.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/python.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/reactjs.svg" height="45"/>
@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/nodejs.svg" height="45"/>
  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/postman.svg" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/java.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/java.svg" height="45"/> -->
 
 	
 <!-- <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/expressjs.svg" height="40"/> -->
