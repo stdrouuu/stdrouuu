@@ -34,7 +34,7 @@
   <!-- <img src="https://github.com/user-attachments/assets/7a3ee5c1-1678-4db5-8b11-88c37cefbb11" width= "2000"/> -->
 	<!-- <img src="https://github.com/user-attachments/assets/0633cb49-c096-4bd1-a9ac-c7e7be40b626"width= "2000"> -->
 	<!-- <img src="https://github.com/user-attachments/assets/281605ea-e187-4955-8c75-0c498d315183"width= "2000"> -->
-  <!-- <img src="https://github.com/user-attachments/assets/e0d13071-9b2e-4172-8c8b-e2608eb8a1d4" width= "2000"/> -->
-	<img src="https://github.com/user-attachments/assets/1f9120ed-cdce-46e2-b815-28794910b20a"width= "2000">
+  <img src="https://github.com/user-attachments/assets/e0d13071-9b2e-4172-8c8b-e2608eb8a1d4" width= "2000"/>
+	<!-- <img src="https://github.com/user-attachments/assets/1f9120ed-cdce-46e2-b815-28794910b20a"width= "2000"> -->
 	
 </p>
